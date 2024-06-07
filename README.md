@@ -32,7 +32,7 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/vd-motors.git
+    git clone https://github.com/VyomOp2/vd-motors.git
     cd vd-motors
     ```
 
